@@ -1,0 +1,18 @@
+Frontend Klasörüne Git ve React Projesi Oluştur:
+
+cd C:\Users\Lenovo\Desktop\fullstack-ai-chat
+cd frontend-web
+
+# React + TypeScript projesi oluştur
+npx create-react-app . --template typescript
+
+Ek Paketleri Yükle:
+
+# Axios için HTTP istekleri
+npm install axios
+
+# CSS framework için (opsiyonel)
+npm install bootstrap
+
+Projeyi Başlat ve Test Et:
+npm start
